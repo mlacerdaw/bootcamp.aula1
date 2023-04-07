@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Imprimir números</title>
+  <title>Bootcamp aula 1</title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="style.css">
 
 </head>
 <body>
-  <h1>Imprimir números</h1>
+
   <form method="post">
     <label for="inicio">Número inicial:</label>
     <input type="number" name="inicio" required><br><br>
